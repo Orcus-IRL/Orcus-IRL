@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working as an Assistant System Engineer at one of the biggest tech companies in India.
+- 🔭 I’m currently working as an Assistant System Engineer at one of the biggest tech company in India.
 - 🌱 I’m currently learning **Pandas, Numpy, Matplotlib, Seaborn, AI, and Machine Learning**.
 - 👯 I’m looking to collaborate on **AI and Machine Learning projects**.
 - 🤝 I’m looking for help with **AI and Machine Learning**.
