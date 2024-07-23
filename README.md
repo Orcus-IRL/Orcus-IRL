@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orcus</h1>
-<h3 align="center">Assistant System Engineer</h3>
+<h3 align="center">Assistant System Engineer - Trainee</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=orcus-irl&label=Profile%20views&color=0e75b6&style=flat" alt="orcus-irl" />
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working as an Assistant System Engineer at one of the biggest tech company in India.
+- 🔭 I’m currently working as an Assistant System Engineer - Trainee at one of the biggest tech company in India.
 - 🌱 I’m currently learning **Pandas, Numpy, Matplotlib, Seaborn, AI, and Machine Learning**.
 - 👯 I’m looking to collaborate on **AI and Machine Learning projects**.
 - 🤝 I’m looking for help with **AI and Machine Learning**.
