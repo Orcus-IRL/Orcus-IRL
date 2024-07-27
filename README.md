@@ -25,6 +25,7 @@
 - 💬 Ask me about **Python and Tech**.
 - 📫 How to reach me: [https://x.com/Orcus_IRL](https://x.com/Orcus_IRL).
 - ⚡ Fun fact: **I am a tech enthusiast and a mobile gamer (CODM)**.
+- ❓If I were to learn ML from scratch which website or course would you recommend?
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
