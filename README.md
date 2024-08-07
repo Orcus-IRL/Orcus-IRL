@@ -18,7 +18,7 @@
 </p>
 
 - 🔭 I’m currently working as an Assistant System Engineer - Trainee at one of the biggest tech company in India.
-- 🌱 I’m currently learning **Pandas, Numpy, Matplotlib, AI and ML**.
+- 🌱 I’m currently learning **Tensorflow, AI and ML**.
 - 👯 I’m looking to collaborate on **AI and Machine Learning projects**.
 - 🤝 I’m looking for help with **AI and Machine Learning**.
 - 👨‍💻 All of my projects are available at [https://github.com/Orcus-IRL](https://github.com/Orcus-IRL).
