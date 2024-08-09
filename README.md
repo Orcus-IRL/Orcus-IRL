@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Orcus</h1>
+<h1 align="center">Hi 👋, I'm Vijay Karthick</h1>
 <h3 align="center">Assistant System Engineer - Trainee</h3>
 
 <p align="center">
