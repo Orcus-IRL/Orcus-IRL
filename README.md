@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay Karthick</h1>
-<h3 align="center">Network and Security Admin - Trainee</h3>
+<h3 align="center">Network and Security Admin</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=orcus-irl&label=Profile%20views&color=0e75b6&style=flat" alt="orcus-irl" />
